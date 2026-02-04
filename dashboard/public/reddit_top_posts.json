@@ -1,0 +1,116 @@
+{
+  "n8n": [
+    {
+      "subreddit": "n8n",
+      "title": "Stop saying \"automation\" to your clients. Here's what actually closes deals.",
+      "url": "https://www.reddit.com/r/n8n/comments/1qvb79w/stop_saying_automation_to_your_clients_heres_what/",
+      "permalink": "https://www.reddit.com/r/n8n/comments/1qvb79w/stop_saying_automation_to_your_clients_heres_what/",
+      "score": 96,
+      "comments": 12,
+      "engagement": 108,
+      "created_utc": 1770169574.0,
+      "selftext": "I've been selling n8n-based automation services for a while now. Cold emails, Upwork projects, the whole pipeline.\n\nThe #1 lesson that changed everything: **never use the word \"automation\" in your pit..."
+    },
+    {
+      "subreddit": "n8n",
+      "title": "What are some better alternatives to N8N for specific tasks that does the job better?",
+      "url": "https://www.reddit.com/r/n8n/comments/1qulvma/what_are_some_better_alternatives_to_n8n_for/",
+      "permalink": "https://www.reddit.com/r/n8n/comments/1qulvma/what_are_some_better_alternatives_to_n8n_for/",
+      "score": 40,
+      "comments": 33,
+      "engagement": 73,
+      "created_utc": 1770104751.0,
+      "selftext": "Hi all- I do like N8N but I have found the that N8N kinda spread too thin since it is meant to be general purpose automation! This means it often needs quiet a bit of setup and maintenance!\n\nAs someon..."
+    },
+    {
+      "subreddit": "n8n",
+      "title": "automatic course certificate generation",
+      "url": "https://www.reddit.com/gallery/1qumkw9",
+      "permalink": "https://www.reddit.com/r/n8n/comments/1qumkw9/automatic_course_certificate_generation/",
+      "score": 60,
+      "comments": 9,
+      "engagement": 69,
+      "created_utc": 1770107383.0,
+      "selftext": "I built a workflow that creates course certificates based on google sheets entries. It uses [stencilpdf.com](http://stencilpdf.com) as a visual builder -&gt; saves the document to google drive and the..."
+    },
+    {
+      "subreddit": "n8n",
+      "title": "Best Airtable Alternatives",
+      "url": "https://www.reddit.com/r/n8n/comments/1qtmaxi/best_airtable_alternatives/",
+      "permalink": "https://www.reddit.com/r/n8n/comments/1qtmaxi/best_airtable_alternatives/",
+      "score": 39,
+      "comments": 23,
+      "engagement": 62,
+      "created_utc": 1770009818.0,
+      "selftext": "**My go-to Airtable replacement:**\u00a0**SeaTable**\u00a0\u2014 especially solid if you\u2019re using\u00a0**n8n**\u00a0since triggers and automations are easy to wire up.\n\n# Closest Airtable-Style Tools\n\n1. **NocoDB**\u00a0\u2013 Puts a s..."
+    },
+    {
+      "subreddit": "n8n",
+      "title": "Finally joining after ~a year of using n8n daily - here's what I've learned",
+      "url": "https://www.reddit.com/r/n8n/comments/1qvkcja/finally_joining_after_a_year_of_using_n8n_daily/",
+      "permalink": "https://www.reddit.com/r/n8n/comments/1qvkcja/finally_joining_after_a_year_of_using_n8n_daily/",
+      "score": 40,
+      "comments": 13,
+      "engagement": 53,
+      "created_utc": 1770198345.0,
+      "selftext": "Hey all - figured it was time to actually join the community instead of just Googling my way through problems.  \n  \nI've been using n8n pretty much every day for the past year, both at my day job (AI ..."
+    }
+  ],
+  "automation": [
+    {
+      "subreddit": "automation",
+      "title": "Has anyone used LinkedIn automation? I have some worries, need insights and advice",
+      "url": "https://www.reddit.com/r/automation/comments/1qt4klw/has_anyone_used_linkedin_automation_i_have_some/",
+      "permalink": "https://www.reddit.com/r/automation/comments/1qt4klw/has_anyone_used_linkedin_automation_i_have_some/",
+      "score": 215,
+      "comments": 43,
+      "engagement": 258,
+      "created_utc": 1769966725.0,
+      "selftext": "I'm trying to scale up my LinkedIn outreach to a wider b2baudience. But instead of advice on how to do it I keep seeing automation tools everywhere. They sound good, but I'm worried that its use might..."
+    },
+    {
+      "subreddit": "automation",
+      "title": "Can someone enlighten me, how is it cheaper to build data centers in space than on earth?",
+      "url": "https://i.redd.it/7jq7b9b8zahg1.jpeg",
+      "permalink": "https://www.reddit.com/r/automation/comments/1quvyve/can_someone_enlighten_me_how_is_it_cheaper_to/",
+      "score": 35,
+      "comments": 90,
+      "engagement": 125,
+      "created_utc": 1770134827.0,
+      "selftext": ""
+    },
+    {
+      "subreddit": "automation",
+      "title": "OpenClaw is a social experiment and humans are screwed",
+      "url": "https://www.reddit.com/r/automation/comments/1qunmmi/openclaw_is_a_social_experiment_and_humans_are/",
+      "permalink": "https://www.reddit.com/r/automation/comments/1qunmmi/openclaw_is_a_social_experiment_and_humans_are/",
+      "score": 77,
+      "comments": 32,
+      "engagement": 109,
+      "created_utc": 1770111386.0,
+      "selftext": "if you haven\u2019t heard of the viral openclaw (formerly moltbot / clawdbot), here\u2019s the tldr on what it is and why it\u2019s blowing up.\n\nbasically, it\u2019s a free, open-source way to run ai agents yourself. the..."
+    },
+    {
+      "subreddit": "automation",
+      "title": "What automation you copied from Reddit actually worked?",
+      "url": "https://www.reddit.com/r/automation/comments/1qtqt6k/what_automation_you_copied_from_reddit_actually/",
+      "permalink": "https://www.reddit.com/r/automation/comments/1qtqt6k/what_automation_you_copied_from_reddit_actually/",
+      "score": 61,
+      "comments": 15,
+      "engagement": 76,
+      "created_utc": 1770025703.0,
+      "selftext": "As someone who has been following this channel for quite a bit, I constantly see people posting and sharing automations! Most of the time I have not been able to have the time to actually run or test ..."
+    },
+    {
+      "subreddit": "automation",
+      "title": "Partner wants 50% equity just for distribution. Walk away or take the deal?",
+      "url": "https://www.reddit.com/r/automation/comments/1qs4n3o/partner_wants_50_equity_just_for_distribution/",
+      "permalink": "https://www.reddit.com/r/automation/comments/1qs4n3o/partner_wants_50_equity_just_for_distribution/",
+      "score": 16,
+      "comments": 36,
+      "engagement": 52,
+      "created_utc": 1769871861.0,
+      "selftext": "Hi everyone, I\u2019m 21M, currently a 3rd-year college student. I started a tech agency a year ago instead of sitting for placements.\n\n**The Situation:**\u00a0I have the tech stack, the IP, and a proven model...."
+    }
+  ]
+}
